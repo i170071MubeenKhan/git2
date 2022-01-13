@@ -4,4 +4,8 @@
 
 Some dummy text
 
+<<<<<<< HEAD
 ### Adding in other branch
+=======
+### some master text
+>>>>>>> master
